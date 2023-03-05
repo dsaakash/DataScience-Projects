@@ -14,17 +14,17 @@ Overall
     - Medal Tally
 
 Overall EDA
-    - Number of Atheletes
-    - Number of Countries
-    - Gender Pie Chart
-    - Age Histogram
-    - Height and Weight Scatter Plot
+             - Number of Atheletes
+             - Number of Countries
+             - Gender Pie Chart
+            - Age Histogram
+            - Height and Weight Scatter Plot
 
 
 Country
-    - Year Wise Medal Tally
-    - Top Atheletes
-    - Top Sports
+         - Year Wise Medal Tally
+        - Top Atheletes
+        - Top Sports
 
 
 + Create an Three dashboards 
